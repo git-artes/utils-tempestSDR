@@ -3,6 +3,8 @@ Ing. Pablo Menoni, tutor: Dr. Ing. Federico La Rocca.
 
 Comentarios, correcciones, etc: pablo.menoni@gmail.com
 
+Más recursos (tesis, algún video y algunas grabaciones para usar desde GNU Radio) en https://iie.fing.edu.uy/investigacion/grupos/artes/es/proyectos/espionaje-por-emisiones-electromagneticas/. 
+
 Archivos del repositorio:
 +-----------------------------------------+-----------------------------------------------------------+
 |  Nombre                                 |                          Descripción                      |
